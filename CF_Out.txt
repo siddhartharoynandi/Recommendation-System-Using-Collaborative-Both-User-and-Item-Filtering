@@ -1,0 +1,2 @@
+User Based Rating: 3.23196654735
+Movie Based Rating: 3.21486445559
